@@ -1,0 +1,12 @@
+logs
+sessions
+tmp
+site
+production-to-test.sh
+production-to-preprod.sh
+public_html/sites/svendborg.local
+public_html/sites/Svendborgdk.dd
+public_html/sites/svendborg.dd
+lokapp
+public_html/sites/svendborg-dk.dd
+public_html_old/

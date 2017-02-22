@@ -1,0 +1,6 @@
+[submodule "public_html/sites/all"]
+	path = public_html/sites/all
+	url = https://github.com/Svendborg/web.git
+[submodule "public_html/profiles/os2web"]
+	path = public_html/profiles/os2web
+	url = https://github.com/bellcom/os2web_profile.git
